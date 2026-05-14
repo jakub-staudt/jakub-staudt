@@ -29,56 +29,29 @@ Most of my work sits at the intersection of:
 ---
 
 # Tech Stack
-
-## Embedded Systems
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45">
-</p>
-
-<p>
-  <img src="STM32.png" height="100">
-  <img src="ESP32.jpg" height="100">
-  <img src="FreeRTOS.png" height="100">
-</p>
-
----
-
-## Robotics & Automation
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45">
+  <img src="STM32.png" height="45">
+  <img src="ESP32.jpg" height="45">
+  <img src="FreeRTOS.png" height="45">
+  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="45">
   <img src="RaspberryPI.jpg" height="45">
   <img src="Codesys.png" height="45">
   <img src="fusion360.png" height="45">
-</p>
-
----
-
-## Computer Vision & AI
-
-<p>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45">
   <img src="YOLO.png" height="45">
-</p>
-
-
-
----
-
-## Hardware & PCB Design
-
-<p>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45">
   <img src="AltiumDesigner.png" height="45">
   <img src="KiCAD.jpg" height="45">
 </p>
-
 
 ---
 
