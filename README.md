@@ -56,7 +56,9 @@ Most of my work sits at the intersection of:
 - Kawasaki Industrial Robot Programming — ASTOR Academy
 - PLC/HMI Programming — ASTOR Academy
 - Cisco CCNAv7 Routing & Switching
+<p>
 <img src="CISCO_CCNA.png" height="100">
 <img src="KawasakiRobotics.png" height="100">
+</p>
 
 
