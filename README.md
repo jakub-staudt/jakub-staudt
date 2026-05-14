@@ -2,15 +2,12 @@
   <img src="cover.jpg" alt="Jakub Staudt Cover" width="100%">
 </p>
 
-<h1 align="center">Jakub Staudt</h1>
-
 <h3 align="center">
 Embedded Robotics • Industrial Automation • Computer Vision • Electronics Engineering
 </h3>
 
 <p align="center">
-  <a href="https://staudtmedia.com/portfolio">Portfolio</a> •
-  <a href="https://github.com/jakub-staudt">GitHub</a> •
+  <a href="https://staudtmedia.com/portfolio">Portfolio</a> 
   <a href="https://www.linkedin.com/in/jakub-staudt">LinkedIn</a>
 </p>
 
