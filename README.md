@@ -28,17 +28,6 @@ Most of my work sits at the intersection of:
 
 ---
 
-## Current Focus
-
-- Embedded Robotics
-- ROS2 development
-- Industrial automation systems
-- Computer vision for robotics
-- Real-time embedded systems
-- Robotics simulation and reinforcement learning 
-
----
-
 # Tech Stack
 
 ## Embedded Systems
@@ -63,12 +52,9 @@ Most of my work sits at the intersection of:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="45">
-</p>
-
-<p>
-  <img src="RaspberryPI.jpg" height="100">
-  <img src="Codesys.png" height="100">
-  <img src="fusion360.png" height="100">
+  <img src="RaspberryPI.jpg" height="45">
+  <img src="Codesys.png" height="45">
+  <img src="fusion360.png" height="45">
 </p>
 
 ---
@@ -78,11 +64,10 @@ Most of my work sits at the intersection of:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45">
+  <img src="YOLO.png" height="45">
 </p>
 
-<p>
-  <img src="YOLO.png" height="100">
-</p>
+
 
 ---
 
@@ -90,12 +75,10 @@ Most of my work sits at the intersection of:
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45">
+  <img src="AltiumDesigner.png" height="45">
+  <img src="KiCAD.jpg" height="45">
 </p>
 
-<p>
-  <img src="AltiumDesigner.png" height="100">
-  <img src="KiCAD.jpg" height="100">
-</p>
 
 ---
 
@@ -104,6 +87,6 @@ Most of my work sits at the intersection of:
 - Kawasaki Industrial Robot Programming — ASTOR Academy
 - PLC/HMI Programming — ASTOR Academy
 - Cisco CCNAv7 Routing & Switching
-
+<img src="CISCO_CCNA.png" height="100">
 
 
