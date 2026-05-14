@@ -9,6 +9,7 @@ Embedded Robotics • Industrial Automation • Computer Vision • Electronics 
 <p align="center">
   <a href="https://staudtmedia.com/portfolio">Portfolio</a> 
   <a href="https://www.linkedin.com/in/jakub-staudt">LinkedIn</a>
+  <a href="mailto:jakubstaudt@gmail.com">jakubstaudt@gmail.com</a>
 </p>
 
 ---
@@ -24,19 +25,6 @@ Most of my work sits at the intersection of:
 - Computer vision
 - Industrial automation
 - AI-assisted engineering
-
-I enjoy building projects that move beyond simulations and actually interact with the physical world, robots, sensors, actuators, motor controllers, industrial communication, and real-time systems.
-
-Over the past years I’ve worked on:
-
-- Industrial robotic systems like a Kawasaki 6-axis robot EV battery stacking station
-- Line follower robot
-- Embedded systems with STM32, ESP32 and FreeRTOS
-- ROS2 robotics applications
-- Computer vision systems using OpenCV and YOLO
-- PCB design and low-level electronics development
-- Motorsport electrical systems for an electric racing motorcycle
-- AI/automation projects combining software and hardware
 
 ---
 
@@ -62,12 +50,11 @@ Over the past years I’ve worked on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45">
 </p>
 
-- STM32
-- ESP32
-- FreeRTOS
-- UART / SPI / I2C
-- Embedded Linux
-- Low-level firmware development
+<p>
+  <img src="STM32.png" height="100">
+  <img src="ESP32.jpg" height="100">
+  <img src="FreeRTOS.png" height="100">
+</p>
 
 ---
 
@@ -78,14 +65,11 @@ Over the past years I’ve worked on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="45">
 </p>
 
-- ROS2
-- Kawasaki AS Language
-- PLC / HMI programming
-- CODESYS
-- Industrial robotics
-- Sensor integration
-- Fusion 360
-- 3D Printing
+<p>
+  <img src="RaspberryPI.jpg" height="100">
+  <img src="Codesys.png" height="100">
+  <img src="fusion360.png" height="100">
+</p>
 
 ---
 
@@ -96,11 +80,9 @@ Over the past years I’ve worked on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="45">
 </p>
 
-- OpenCV
-- YOLO
-- Roboflow
-- Real-time object detection
-- AI-assisted robotics systems
+<p>
+  <img src="YOLO.png" height="100">
+</p>
 
 ---
 
@@ -110,13 +92,10 @@ Over the past years I’ve worked on:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45">
 </p>
 
-- Altium Designer
-- PCB schematic design
-- Signal processing
-- Oscilloscope debugging
-- Analog & digital electronics
-- Power systems
-- Telemetry systems
+<p>
+  <img src="AltiumDesigner.png" height="100">
+  <img src="KiCAD.jpg" height="100">
+</p>
 
 ---
 
@@ -126,36 +105,5 @@ Over the past years I’ve worked on:
 - PLC/HMI Programming — ASTOR Academy
 - Cisco CCNAv7 Routing & Switching
 
----
-
-# Beyond Engineering
-
-Outside engineering, I’ve also built and run part-time a marketing agency (Staudt Media), which gave me experience in:
-
-- Business strategy
-- Communication
-- Systems thinking
-- Leadership
-- Client management
-
----
-
-# Contact
-
-📍 Wrocław, Poland  
-📧 jakubstaudt@gmail.com  
-
-🌐 Portfolio:  
-https://staudtmedia.com/portfolio
 
 
-🔗 LinkedIn:  
-https://linkedin.com/in/jakub-staudt
-
----
-
-<p align="center">
-  <i>
-    Building systems where software meets hardware.
-  </i>
-</p>
