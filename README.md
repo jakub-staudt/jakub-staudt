@@ -29,15 +29,14 @@ I enjoy building projects that move beyond simulations and actually interact wit
 
 Over the past years I’ve worked on:
 
-- Industrial robotic systems using Kawasaki 6-axis robots
+- Industrial robotic systems like a Kawasaki 6-axis robot EV battery stacking station
+- Line follwer robot
 - Embedded systems with STM32, ESP32 and FreeRTOS
 - ROS2 robotics applications
 - Computer vision systems using OpenCV and YOLO
 - PCB design and low-level electronics development
 - Motorsport electrical systems for an electric racing motorcycle
 - AI/automation projects combining software and hardware
-
-I tend to work comfortably across disciplines, from electronics and firmware to mechanical integration and software architecture.
 
 ---
 
@@ -48,8 +47,7 @@ I tend to work comfortably across disciplines, from electronics and firmware to 
 - Industrial automation systems
 - Computer vision for robotics
 - Real-time embedded systems
-- AI integration into robotics workflows
-- Robotics simulation and digital twins
+- Robotics simulation and reinforcement learning 
 
 ---
 
@@ -86,7 +84,6 @@ I tend to work comfortably across disciplines, from electronics and firmware to 
 - CODESYS
 - Industrial robotics
 - Sensor integration
-- Motion systems
 - Fusion 360
 - 3D Printing
 
@@ -115,7 +112,7 @@ I tend to work comfortably across disciplines, from electronics and firmware to 
 
 - Altium Designer
 - PCB schematic design
-- Signal validation
+- Signal processing
 - Oscilloscope debugging
 - Analog & digital electronics
 - Power systems
@@ -173,7 +170,6 @@ Computer vision pipeline for detecting warehouse boxes in real time using:
 - Python
 - OpenCV
 - YOLO
-- Custom dataset training with Roboflow
 
 Focused on optimizing detection thresholds and improving inference consistency.
 
@@ -206,26 +202,13 @@ This was where I transitioned from mostly academic engineering into full industr
 
 # Beyond Engineering
 
-Outside engineering, I’ve also built and run a marketing and automation agency, which gave me experience in:
+Outside engineering, I’ve also built and run part-time a marketing agency (Staudt Media), which gave me experience in:
 
 - Business strategy
 - Communication
 - Systems thinking
 - Leadership
 - Client management
-
-That combination of technical and entrepreneurial experience tends to shape how I approach engineering problems, with a strong focus on practical implementation and usability.
-
----
-
-# What I Like Building
-
-- Robots that interact with real environments
-- Embedded systems with visible physical outputs
-- Computer vision systems connected to hardware
-- Automation systems that solve operational problems
-- Fast MVP-style technical prototypes
-- Projects that combine multiple engineering disciplines
 
 ---
 
@@ -237,8 +220,6 @@ That combination of technical and entrepreneurial experience tends to shape how 
 🌐 Portfolio:  
 https://staudtmedia.com/portfolio
 
-💻 GitHub:  
-https://github.com/jakub-staudt
 
 🔗 LinkedIn:  
 https://linkedin.com/in/jakub-staudt
